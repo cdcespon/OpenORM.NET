@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-16"?>
+<GenerationProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SupportedCharacters />
+  <ConnectionStringName />
+  <ChildrenPrefix />
+  <Entity_Display_Name />
+  <DisableNamespaceSchema>false</DisableNamespaceSchema>
+  <MultiQuery>true</MultiQuery>
+  <Namespace />
+  <ShowSystemData>false</ShowSystemData>
+  <BuildRelations>true</BuildRelations>
+  <DbDriver>SQL</DbDriver>
+  <ConnectionString />
+  <SelectedViews />
+  <SelectedStoredProcedures />
+  <UnselectedStoredProcedures />
+  <MappedStoredProcedures />
+  <SelectedTables />
+  <SelectedTemplates />
+  <Location />
+</GenerationProject>
